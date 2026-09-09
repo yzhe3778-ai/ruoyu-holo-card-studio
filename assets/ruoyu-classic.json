@@ -1,0 +1,10 @@
+{
+  "preset": "ruoyu-classic",
+  "version": 1,
+  "parameters": {"subjectScale": 1.25, "subjectDepth": 0.4, "backgroundDepth": -0.25, "foil": 0.65},
+  "visual": {"backgroundBrightness": 0.65, "backgroundFit": 0.92, "spread": 0.5, "sparkle": 0.35, "titleShade": 0.5, "accent": "#e8c575"},
+  "layouts": {
+    "full": {"scale": [1.12, 1.12], "offset": [-0.06, -0.06]},
+    "portrait": {"scale": [0.72, 0.8], "offset": [0.14, 0.28]}
+  }
+}
